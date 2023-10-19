@@ -1,8 +1,8 @@
 🚀Project Update🚀<br>
 My Name is chappa lokesh
-Here's my TASK-2 "Project-Management-Tool" as part of my Internship with Bharat Intern.
+Here's my TASK-3 "VIDEO CONFERENCE SYSTEM" as part of my Internship with Bharat Intern.
 
-# Project-Management-Tool
+# Video Conference system
 The project includes a framework of social media sites where users can communicate with one another. The users also get the functionality to assign tasks to others
 
 
